@@ -55,7 +55,7 @@ function serotypeAnalysis () {
 
 function mlstAnalysis () {
     echo "Running mlst..."
-    mlst --scheme ecoli $FASTA --label $NAME --threads $THREADS > ${OUTDIR}/mlst/mlst_results_${NAME}.tsv 2> $OUTDIR/mlst/mlst.log
+    mlst --scheme ecoli_achtman_4 $FASTA --label $NAME --threads $THREADS > ${OUTDIR}/mlst/mlst_results_${NAME}.tsv 2> $OUTDIR/mlst/mlst.log
 }
 
 function makeBlastDB () {
