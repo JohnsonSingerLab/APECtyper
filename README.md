@@ -2,6 +2,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-green.svg)](https://www.gnu.org/licenses/old-licenses/gpl-3.0.en.html)
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
+:no_entry: **ATTENTION:** 
+This version of APECtyper is deprecated. New web-based version coming soon!
+
 # APECtyper
 
 *In silico* command line tool for typing Avian Pathogenic *Escherichia coli* (APEC)
